@@ -1,3 +1,5 @@
+https://api.agel.adani.digital/api-docs/
+
 Request URL
 https://api-uat.agel.adani.digital/healthcheck
 https://api-uat.agel.adani.digital/ic/v1/model/assets?category=HIGH_TENSION_PANEL&limit=3&offset=2&parentid=0
